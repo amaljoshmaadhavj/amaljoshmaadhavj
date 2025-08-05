@@ -2,6 +2,6 @@
 
 ### 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
