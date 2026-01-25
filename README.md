@@ -10,6 +10,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
 
 
 ### 🔗 Connect with Me
