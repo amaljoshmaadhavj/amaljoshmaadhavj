@@ -3,8 +3,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=false&width=435&lines=Hi!+I'm+Amaljosh Maadhav J+J+%F0%9F%91%8B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">\
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=false&width=435&lines=Hi!+I'm+Amaljosh Maadhav J+J+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
 
