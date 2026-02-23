@@ -27,6 +27,29 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
 
 
+### Coding Profile
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?theme=dark&font=Baloo_2&ext=contest" />
+      </td>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?ext=heatmap" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img
+    height="200"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3"
+  />
+</div>
+
+
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amaljoshmaadhavj/)
