@@ -8,24 +8,49 @@
   </a>
 </div>
 
-### 🛠️ Tools & Technologies
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=python&logoColor=white)
-![Scikit%20Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikitlearn&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)
+### Connect with Me
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/amaljoshmaadhavj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:amal018josephmathi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+### Tech Stack
+
+<div align="center">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,java,python" height="50" />
+  <img width="12" />
+
+  <!-- Data Science / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+  <img width="12" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb" height="50" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
+  <img width="12" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img width="12" />
+
+  <!-- Visualization -->
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="50" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50" />
+
+</div>
 
 ### Coding Profile
 
@@ -49,10 +74,6 @@
   />
 </div>
 
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amaljoshmaadhavj/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amal018josephmathi@gmail.com)
+---
 
 Credit: [Amaljosh Maadhav J](https://www.linkedin.com/in/amaljoshmaadhavj/)
