@@ -46,9 +46,9 @@
   <img width="12" />
 
   <!-- Visualization -->
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" />
 
 </div>
 
