@@ -8,7 +8,9 @@
   </a>
 </div>
 
-### Connect with Me
+---
+
+### 🔗 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amaljoshmaadhavj/" target="_blank">
@@ -19,7 +21,9 @@
   </a>
 </div>
 
-### Tech Stack
+---
+
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -27,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,python" height="50" />
   <img width="12" />
 
-  <!-- Data Science / ML -->
+  <!-- Data Science & ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
@@ -35,45 +39,44 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
   <img width="12" />
 
-  <!-- Tools -->
+  <!-- Tools & Development -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb" height="50" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
   <img width="12" />
 
-  <!-- Databases -->
+  <!-- Databases & Visualization -->
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
   <img width="12" />
-
-  <!-- Visualization -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="50" />
 
 </div>
 
-### Coding Profile
+---
+
+### 📊 Coding Profile
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?theme=dark&font=Baloo_2&ext=contest" />
+        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Contest" />
       </td>
       <td>
-        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?ext=heatmap" />
+        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?ext=heatmap" alt="LeetCode Heatmap" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img
-    height="200"
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3"
-  />
+  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" alt="Coding animation" />
 </div>
 
 ---
 
-Credit: [Amaljosh Maadhav J](https://www.linkedin.com/in/amaljoshmaadhavj/)
+<div align="center">
+  <em>Connect with me on <a href="https://www.linkedin.com/in/amaljoshmaadhavj/">LinkedIn</a> • Email: <a href="mailto:amal018josephmathi@gmail.com">amal018josephmathi@gmail.com</a></em>
+</div>
