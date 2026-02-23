@@ -48,9 +48,9 @@
   <!-- Databases & Visualization -->
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=excel" height="50" />
 
 </div>
 
