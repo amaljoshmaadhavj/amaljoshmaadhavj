@@ -77,6 +77,26 @@
 
 ---
 
+### 📈 GitHub Statistics
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaljoshmaadhavj" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amaljoshmaadhavj&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaljoshmaadhavj&theme=dark&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaljoshmaadhavj&theme=react-dark&bg_color=20222c&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
 <div align="center">
   <em>Connect with me on <a href="https://www.linkedin.com/in/amaljoshmaadhavj/">LinkedIn</a> • Email: <a href="mailto:amal018josephmathi@gmail.com">amal018josephmathi@gmail.com</a></em>
 </div>
