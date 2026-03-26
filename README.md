@@ -84,16 +84,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaljoshmaadhavj" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amaljoshmaadhavj&theme=dark&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaljoshmaadhavj&theme=dark&layout=compact" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaljoshmaadhavj&theme=react-dark&bg_color=20222c&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
