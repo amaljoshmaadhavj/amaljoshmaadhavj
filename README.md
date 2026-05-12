@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="assets/banner.png" width="800">
-</div>
-<br>
+<h1 align="center" style="color: #6366f1; font-size: 3em; margin: 0;">👋 Hi, I'm Amaljosh Maadhav J</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=6366f1&center=true&vCenter=true&width=500&height=50&lines=AI+ENGINEER;DATA+SCIENTIST;FULL+STACK+DEVELOPER;COMPETITIVE+PROGRAMMER" alt="Developer Typing SVG" />
@@ -83,10 +81,6 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" alt="Coding animation" />
 </div>
 
 ---
