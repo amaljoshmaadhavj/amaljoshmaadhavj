@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #6366f1; font-size: 3em; margin: 0;">👋 Hi, I'm Amaljosh Maadhav J</h1>
+<h1 align="center" style="color: #6366f1; font-size: 3em; margin: 0;">Hi 👋, I'm Amaljosh Maadhav J</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,17 +12,17 @@
 
 AI & Data Science Engineer passionate about building real-world ML systems. I specialize in **NLP**, **Computer Vision**, **LLMs**, and **RAG** systems with hands-on experience deploying end-to-end solutions in healthcare, recruitment, and language AI.
 
-**🎯 Key Highlights:**
+*** Key Highlights:**
 - **Nasscom Agentic AI Finalist** — recognized for innovative AI solutions
 - **BTech in AI & Data Science** — Saveetha Engineering College (2027)
 - **Technical Expertise:** Python · TensorFlow · PyTorch · FastAPI · Scikit-learn · XGBoost
 - **Focus:** Models that are accurate, fast, and deployable
 
-**🔍 Open to:** Data Science · ML Engineering · AI Engineering · Data Analytics internships & full-time roles
+*** Open to:** Data Science · ML Engineering · AI Engineering · Data Analytics internships & full-time roles
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amaljoshmaadhavj/" target="_blank">
@@ -35,7 +35,7 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -68,7 +68,7 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 ---
 
-### 📊 Coding Profile
+### Coding Profile
 
 <div align="center">
   <table>
@@ -85,7 +85,7 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 ---
 
-### 📈 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <!-- GitHub Streak -->
