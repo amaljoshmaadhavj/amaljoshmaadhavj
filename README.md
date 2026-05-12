@@ -1,30 +1,38 @@
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                    ✨ AMALJOSH MAADHAV J ✨                              ║
+║                                                                           ║
+║              AI Engineer • Data Scientist                                 ║
+║              Competitive Programmer • Open Source Enthusiast              ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=AI+ENGINEER;DATA+SCIENTIST;PYTHON+ENTHUSIAST;COMPETITIVE+PROGRAMMER;TECH+EXPLORER" alt="Developer Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="assets/banner.png" width="800">
 </div>
 <br>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=false&width=435&lines=Hi!+I'm+Amaljosh+Maadhav+J+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-### � About Me
 
 AI & Data Science Engineer passionate about building real-world ML systems. I specialize in **NLP**, **Computer Vision**, **LLMs**, and **RAG** systems with hands-on experience deploying end-to-end solutions in healthcare, recruitment, and language AI.
 
-**🎯 Key Highlights:**
+*** Key Highlights:**
 - **Nasscom Agentic AI Finalist** — recognized for innovative AI solutions
 - **BTech in AI & Data Science** — Saveetha Engineering College (2027)
 - **Technical Expertise:** Python · TensorFlow · PyTorch · FastAPI · Scikit-learn · XGBoost
 - **Focus:** Models that are accurate, fast, and deployable
 
-**🔍 Open to:** Data Science · ML Engineering · AI Engineering · Data Analytics internships & full-time roles
+*** Open to:** Data Science · ML Engineering · AI Engineering · Data Analytics internships & full-time roles
 
 ---
 
-### �🔗 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amaljoshmaadhavj/" target="_blank">
@@ -37,7 +45,7 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -70,7 +78,7 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 ---
 
-### 📊 Coding Profile
+### Coding Profile
 
 <div align="center">
   <table>
@@ -91,7 +99,7 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 ---
 
-### 📈 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <!-- GitHub Streak -->
