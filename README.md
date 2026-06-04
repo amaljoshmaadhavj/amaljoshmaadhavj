@@ -10,15 +10,26 @@
 
 ### About Me
 
-AI & Data Science Engineer passionate about building real-world ML systems. I specialize in **NLP**, **Computer Vision**, **LLMs**, and **RAG** systems with hands-on experience deploying end-to-end solutions in healthcare, recruitment, and language AI.
+I am an AI & Data Science Engineer passionate about building intelligent systems that solve real-world problems. My expertise spans Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Large Language Models, and Agentic AI. I specialize in transforming complex data into practical, scalable solutions that create measurable impact.
 
-**Key Highlights:**
-- **Nasscom Agentic AI Finalist** — recognized for innovative AI solutions
-- **BTech in AI & Data Science** — Saveetha Engineering College (2027)
-- **Technical Expertise:** Python · TensorFlow · PyTorch · FastAPI · Scikit-learn · XGBoost
-- **Focus:** Models that are accurate, fast, and deployable
+**Academic Background:**
+B.Tech in Artificial Intelligence & Data Science — Saveetha Engineering College (Expected 2027)
 
-**Open to:** Data Science · ML Engineering · AI Engineering · Data Analytics internships & full-time roles
+**Key Achievements:**
+- **Nasscom Agentic AI Finalist** — Recognized for developing innovative, production-ready AI solutions
+- **End-to-End ML Expertise:** Proficient in data preprocessing, feature engineering, model development, and production deployment
+- **Industry Experience:** Healthcare, Recruitment & Talent Acquisition, Language AI & NLP, Predictive Analytics
+
+**Technical Proficiency:** Python · TensorFlow · PyTorch · FastAPI · Scikit-learn · XGBoost · Cloud Deployment
+
+**Career Focus:**
+Building scalable, production-ready ML systems that bridge research and real-world applications, delivering both business and societal value.
+
+**Currently Exploring:**
+Agentic AI Systems · Advanced Large Language Models · Retrieval-Augmented Generation · System Design & Deployment
+
+**Open to Opportunities:**
+Data Science Internships · Machine Learning Engineering · AI Engineering Roles · Research Collaborations · Open Source Contributions
 
 ---
 
@@ -39,30 +50,52 @@ AI & Data Science Engineer passionate about building real-world ML systems. I sp
 
 <div align="center">
 
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,java,python" height="50" />
-  <img width="12" />
+  <p><strong>Programming Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,java,sql,c" height="50" />
+  <br/>
+  <br/>
 
-  <!-- Data Science & ML -->
+  <p><strong>Data Science & ML Libraries</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
-  <img width="12" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/EXP-Codes/hd-icons/master/xgboost/xgboost.svg" height="50" />
+  <br/>
+  <br/>
+
+  <p><strong>Deep Learning & AI Frameworks</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
-  <img width="12" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" />
+  <img width="8" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png" height="50" />
+  <br/>
+  <br/>
 
-  <!-- Tools & Development -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb" height="50" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
-  <img width="12" />
+  <p><strong>Web Frameworks & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit" height="50" />
+  <br/>
+  <br/>
 
-  <!-- Databases & Visualization -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=excel" height="50" />
+  <p><strong>Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
+  <img width="8" />
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v2220deb2920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/firebase/images/favicons/favicon.ico" height="50" />
+  <br/>
+  <br/>
+
+  <p><strong>DevOps & Version Control</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" height="50" />
+  <br/>
+  <br/>
+
+  <p><strong>IDEs & Development Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter" height="50" />
 
 </div>
 
