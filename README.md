@@ -117,23 +117,23 @@ Building scalable AI systems that bridge cutting-edge research with real-world a
       <td>
         <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Contest" />
       </td>
-      <td>
-        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?ext=heatmap" alt="LeetCode Heatmap" />
-      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-### GitHub Statistics
+### GitHub Statistics and Contributions
+
 
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaljoshmaadhavj" alt="GitHub Streak" />
 </div>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaljoshmaadhavj&theme=react-dark&hide_border=true&area=false&custom_title=Amaljosh%27s%20Contribution%20Graph" alt="AJM's Contribution Graph" />
+</p>
 
 ---
 
