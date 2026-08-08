@@ -118,7 +118,7 @@ Building scalable AI systems that bridge cutting-edge research with real-world a
         <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Contest" />
       </td>
       <td>
-        <img src="assets/snake.svg" alt="Snake animation" width="520" />
+        <img src="https://leetcard.jacoblin.cool/amaljoshmaadhavj?ext=heatmap" alt="LeetCode Heatmap" />
       </td>
     </tr>
   </table>
