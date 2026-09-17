@@ -16,22 +16,22 @@
 
 ---
 
-### About Me
-**AI & Data Science Engineer** passionate about building intelligent systems that solve real-world problems. I work across **Machine Learning, Deep Learning, NLP, Computer Vision, Large Language Models (LLMs), and Agentic AI**, transforming complex data into scalable, production-ready solutions.
+### 👋 About Me
+**Software Development & AI Engineer** passionate about building scalable software, intelligent systems, and real-world products. I work across **Software Engineering, Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, and Agentic AI**, combining strong programming fundamentals with AI to build practical, production-ready solutions.
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**  — SEC'27
+🎓 **B.Tech in Artificial Intelligence & Data Science** — Saveetha Engineering College, SEC'27
 
 ### 🏆 Highlights
-- **Nasscom Agentic AI Finalist** — Built innovative, production-ready AI solutions
-- **Flipkart Grid 6.0 Robotics Semi-Finalist** — Developed AI-powered computer vision solutions for intelligent retail automation
-- **End-to-End ML Development** — Data preprocessing, feature engineering, model training, evaluation & deployment
-- **Domain Experience** — Healthcare • Recruitment • Language AI • Predictive Analytics
-
-### ⚡ Core Technologies
-`Python` • `TensorFlow` • `PyTorch` • `FastAPI` • `Scikit-learn` • `XGBoost` • `Docker` • `Git`
+- 🥇 **Nasscom Agentic AI Finalist** — Built innovative AI solutions for real-world automation
+- 🤖 **Flipkart GRiD 6.0 Robotics Semi-Finalist** — Developed AI-powered computer vision solutions for intelligent retail automation
+- 💻 **Software Engineering** — Building full-stack applications, REST APIs, backend services, databases, and scalable systems
+- 🤖 **AI Engineering** — Developing and deploying ML, Deep Learning, Computer Vision, NLP, LLM, and Agentic AI applications
+- 🚀 **End-to-End Development** — From problem analysis and system design to development, testing, deployment, and optimization
 
 ### 🎯 Career Focus
-Building scalable AI systems that bridge cutting-edge research with real-world applications and deliver measurable impact.
+Looking to build **scalable software and intelligent systems** as a **Software Development Engineer (SDE) or AI Engineer**, combining strong software engineering fundamentals with modern AI technologies.
+
+> **Code. Build. Learn. Research. Deploy.**
 
 
 
