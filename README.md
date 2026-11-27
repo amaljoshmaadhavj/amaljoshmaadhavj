@@ -89,8 +89,10 @@ Looking to build **scalable software and intelligent systems** as a **Software D
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ☁️ Cloud • DevOps • Tools
+### ☁️ Cloud • Data Engineering • DevOps
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -104,6 +106,7 @@ Looking to build **scalable software and intelligent systems** as a **Software D
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Vision-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Engineering-232F3E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Science-1F77B4?style=for-the-badge" />
 </p>
 
